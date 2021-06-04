@@ -1,1 +1,1 @@
-# MariaDB-JSON
+# Manage and control JSON data
